@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Imran 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Imran </h1>
 
 <p align="center">
   💻 Computer Science Student | 🔬 AI & ML Enthusiast | 🔧 Backend & JavaFX Developer
