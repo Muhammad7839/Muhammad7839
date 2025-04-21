@@ -2,7 +2,7 @@
 
 🚀 Computer Science student at Farmingdale State College  
 📍 Long Island, NY | 📧 [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammadimran7839/) | 📹 [Game Demo](https://youtu.be/KOG_xwrZXik) | 🌐 [Live Website](https://sage-lively-needle-305.vscodeedu.app)
+📹 [Game Demo](https://youtu.be/KOG_xwrZXik) | 🌐 [Live Website](https://sage-lively-needle-305.vscodeedu.app)
 
 ---
 
