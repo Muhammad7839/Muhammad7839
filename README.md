@@ -1,64 +1,67 @@
-# 👋 Hi, I'm Muhammad Imran
+<h1 align="center">Hi, I'm Muhammad Imran 👋</h1>
 
-🚀 Computer Science student at Farmingdale State College  
-📍 Long Island, NY | 📧 [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
-📹 [Game Demo](https://youtu.be/KOG_xwrZXik) | 🌐 [Live Website](https://sage-lively-needle-305.vscodeedu.app)
+<p align="center">
+  💻 Computer Science Student | 🔬 AI & ML Enthusiast | 🔧 Backend & JavaFX Developer
+</p>
+
+<p align="center">
+  <a href="mailto:imranabdullah926@gmail.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/muhammadimran7839">💼 LinkedIn</a> • 
+  <a href="https://sage-lively-needle-305.vscodeedu.app">🌐 Portfolio</a> • 
+  <a href="https://youtu.be/KOG_xwrZXik">🎮 Game Demo</a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 About Me
 
-**Languages:** Java, Python, Linux, F#, C++, SQL, JavaScript, HTML/CSS  
-**Frameworks & Tools:** JavaFX, Spring Boot, React, Node.js, Scene Builder, Git, Docker, Azure, AWS, VS Code, IntelliJ  
+🎓 I'm an undergraduate at **Farmingdale State College**, majoring in Computer Science with a minor in Applied Mathematics.  
+💡 Passionate about building practical applications and exploring how AI can improve everyday tasks.  
+🚀 Currently focused on JavaFX, Spring Boot, and full-stack development.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: Java, Python, C++, F#, SQL, JavaScript, HTML/CSS  
+- **Frameworks**: Spring Boot, React, JavaFX, Node.js  
+- **Tools**: Git, GitHub, Docker, Azure, AWS, IntelliJ, VS Code, Scene Builder, Lucidchart
 
 ---
 
 ## 📚 Education
 
-**Farmingdale State College**, NY  
-Bachelor of Science in Computer Science, Minor in Applied Math  
-📅 Expected Graduation: May 2026 | 🏅 Dean’s List  
+**Farmingdale State College**  
+Bachelor of Science in Computer Science  
+📍 Long Island, NY | 🎓 Expected: May 2026 | 🎖 Dean’s List
 
 ---
 
-## 💼 Experience
+## 🚀 Highlight Projects
 
-**🔧 Backend Developer — FinTrack**  
-*Jan 2025 – Mar 2025*  
-- Built 6+ backend entities and REST APIs using Java + Spring Boot  
-- Set up full backend architecture and JPA-based DB integration  
+### 💳 Banking System
+*Java | JavaFX | File I/O | OOP*  
+A secure banking application with login authentication, transaction history, and receipt generation.
 
-**🖥️ Help Desk Support — Farmingdale College**  
-*Jan 2022 – Dec 2022*  
-- Resolved 120+ tickets; created an FAQ page reducing repeated requests  
+### 🎮 JavaFX Card Game (24)
+*JavaFX | FXML | Gemini AI*  
+An interactive game where players build math expressions to reach 24, featuring levels, hints, and animations.  
+📹 [Watch Demo](https://youtu.be/KOG_xwrZXik)
 
-**👔 Manager — Five Guys, NY**  
-*Jan 2022 – Present*  
-- Created training guides, optimized schedules, and boosted team efficiency  
+### 🌐 Event Website  
+*HTML | CSS | JavaScript*  
+A responsive, multi-section site with countdown, testimonials, RSVP form, and dark mode.  
+🔗 [Live Site](https://sage-lively-needle-305.vscodeedu.app)
 
----
-
-## 🔨 Projects
-
-### 💳 [Banking System](#)
-*Java, JavaFX, File I/O, OOP*  
-- Secure login, virtual transactions, receipt generation, and history saving  
-
-### 🃏 [JavaFX 24 Card Game](https://youtu.be/KOG_xwrZXik)  
-*JavaFX, FXML, Gemini AI API*  
-- Build math expressions to hit 24 with AI hints, animations, and clean UI  
-
-### 🌐 [Event Website](https://sage-lively-needle-305.vscodeedu.app)  
-*HTML, CSS, JavaScript*  
-- Responsive multi-section site with RSVP form, dark mode, and timer  
-
-### 🚗 [Cloud-Based Maze Solver](#)  
-*JavaFX, Scene Builder, FXML*  
-- Smart car navigation in maze with tab switching, AI pathfinding, and design polish  
+### 🧭 Maze Solver  
+*JavaFX | Scene Builder | FXML*  
+Smart maze navigation using keyboard and auto-solve features with a smooth car animation.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad7839&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad7839&layout=compact&theme=radical" alt="Top Languages" />
+</p>
