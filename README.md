@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="mailto:imranabdullah926@gmail.com">📧 Email</a> •  
   <a href="https://sage-lively-needle-305.vscodeedu.app">🌐 Live Website</a> • 
   <a href="https://youtu.be/KOG_xwrZXik">🎮 Game Demo</a>
 </p>
@@ -19,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
 - **Languages**: Java, Python, C++, F#, SQL, JavaScript, HTML/CSS  
 - **Frameworks**: Spring Boot, React, JavaFX, Node.js  
@@ -35,7 +36,7 @@ Bachelor of Science in Computer Science
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Projects
 
 ### 💳 Banking System
 *Java | JavaFX | File I/O | OOP*  
