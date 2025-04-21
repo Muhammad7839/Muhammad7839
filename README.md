@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:imranabdullah926@gmail.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/muhammadimran7839">💼 LinkedIn</a> • 
-  <a href="https://sage-lively-needle-305.vscodeedu.app">🌐 Portfolio</a> • 
+  <a href="https://sage-lively-needle-305.vscodeedu.app">🌐 Live Website</a> • 
   <a href="https://youtu.be/KOG_xwrZXik">🎮 Game Demo</a>
 </p>
 
