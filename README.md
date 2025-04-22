@@ -12,6 +12,10 @@
 
 ---
 
+## 📫 Contact
+
+- 📧How to reach me [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
+
 ## 🛠️ Tech Stack
 
 - **Languages**: Java, Python, C++, F#, SQL, JavaScript, HTML/CSS  
@@ -49,13 +53,6 @@ Fully responsive multi-section event site with RSVP form, testimonials, video, d
 Interactive maze-solving app with keyboard controls, auto-solve logic, and tab-switching between mazes.
 
 ---
-
-## 📫 Contact
-
-- 📧 [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
-- 🌐 [Portfolio](https://sage-lively-needle-305.vscodeedu.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/muhammadimran7839)  
-
 ---
 
 ## 📊 GitHub Stats
