@@ -1,66 +1,52 @@
-<h1 align="center">Hi, I'm Muhammad Imran </h1>
-
 <p align="center">
-  💻 Computer Science Student | 🔬 AI & ML Enthusiast | 🔧 Backend & JavaFX Developer
-</p>
-
-<p align="center">
-  <a href="mailto:imranabdullah926@gmail.com">📧 Email</a> •  
-  <a href="https://sage-lively-needle-305.vscodeedu.app">🌐 Live Website</a> • 
-  <a href="https://youtu.be/KOG_xwrZXik">🎮 Game Demo</a>
+  <img src="image.png" alt="Muhammad Imran Banner" style="width:100%;" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-🎓 I'm an undergraduate at **Farmingdale State College**, majoring in Computer Science with a minor in Applied Mathematics.  
-💡 Passionate about building practical applications and exploring how AI can improve everyday tasks.  
-🚀 Currently focused on JavaFX, Spring Boot, and full-stack development.
-
----
-
-## 🛠️ Skills & Technologies
-
-- **Languages**: Java, Python, C++, F#, SQL, JavaScript, HTML/CSS  
-- **Frameworks**: Spring Boot, React, JavaFX, Node.js  
-- **Tools**: Git, GitHub, Docker, Azure, AWS, IntelliJ, VS Code, Scene Builder, Lucidchart
+I'm a Computer Science student passionate about solving real-world problems through clean, efficient code.  
+I enjoy working with Java, JavaFX, and backend frameworks like Spring Boot — and love exploring AI integration into daily tools.
 
 ---
 
-## 📚 Education
+## 💻 Skills & Technologies
 
-**Farmingdale State College**  
-Bachelor of Science in Computer Science  
-📍 Long Island, NY | 🎓 Expected: May 2026 | 🎖 Dean’s List
+**Languages**: Java, Python, C++, F#, SQL, JavaScript, HTML/CSS  
+**Frameworks**: JavaFX, Spring Boot, React, Node.js  
+**Tools**: IntelliJ, VS Code, GitHub, Docker, Azure, AWS, Scene Builder
 
 ---
 
 ## 🚀 Projects
 
 ### 💳 Banking System
-*Java | JavaFX | File I/O | OOP*  
-A secure banking application with login authentication, transaction history, and receipt generation.
+Secure JavaFX app with file-based storage for banking functions: login, transfer, withdraw, and receipt generation.
 
-### 🎮 JavaFX Card Game (24)
-*JavaFX | FXML | Gemini AI*  
-An interactive game where players build math expressions to reach 24, featuring levels, hints, and animations.  
-📹 [Watch Demo](https://youtu.be/KOG_xwrZXik)
+### 🎮 JavaFX 24 Card Game  
+Build math expressions to reach 24 using randomly dealt cards. Includes Gemini AI-powered hints and animated UI.  
+🎥 [Demo Video](https://youtu.be/KOG_xwrZXik)
 
 ### 🌐 Event Website  
-*HTML | CSS | JavaScript*  
-A responsive, multi-section site with countdown, testimonials, RSVP form, and dark mode.  
-🔗 [Live Site](https://sage-lively-needle-305.vscodeedu.app)
+A fully responsive multi-section site with RSVP form, video, testimonials, and dark mode.  
+🌍 [Live Site](https://sage-lively-needle-305.vscodeedu.app)
 
-### 🧭 Maze Solver  
-*JavaFX | Scene Builder | FXML*  
-Smart maze navigation using keyboard and auto-solve features with a smooth car animation.
+### 🧠 Maze Solver  
+JavaFX maze game using smart pathing and tabbed UI to support multiple maze layouts and real-time animation.
 
 ---
 
-## 📈 GitHub Stats
+## 📫 Contact
+
+- 📧 Email: [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
+- 🌐 Portfolio: [https://sage-lively-needle-305.vscodeedu.app](https://sage-lively-needle-305.vscodeedu.app)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad7839&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad7839&layout=compact&theme=radical" />
 </p>
