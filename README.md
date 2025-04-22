@@ -14,7 +14,9 @@
 
 ## 📫 Contact
 
-- 📧How to reach me [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
+- 📧 How to reach me: [imranabdullah926@gmail.com](mailto:imranabdullah926@gmail.com)  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +54,6 @@ Fully responsive multi-section event site with RSVP form, testimonials, video, d
 *JavaFX | Scene Builder | FXML*  
 Interactive maze-solving app with keyboard controls, auto-solve logic, and tab-switching between mazes.
 
----
 ---
 
 ## 📊 GitHub Stats
