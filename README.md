@@ -56,6 +56,8 @@ Full-stack Java application for managing academic tasks with cloud persistence. 
 
 🎥 Demo Video: https://youtu.be/lPuLvdT11YU?si=gokdtvb0qqLvzCrs
 
+---
+
 ### 🌐 Event Website
 
 *HTML | CSS | JavaScript*
