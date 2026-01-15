@@ -10,7 +10,7 @@ My best work is pinned below.
 ## 🧠 About Me
 
 Computer science undergraduate at Farmingdale State College (SUNY).  
-I build full-stack Java applications, JavaFX desktop software, Android apps, and machine-learning projects, with an emphasis on clarity, structure, and real-world use.
+“I build full-stack Java applications, JavaFX desktop software, Android apps, and applied machine-learning projects.”
 
 ---
 
