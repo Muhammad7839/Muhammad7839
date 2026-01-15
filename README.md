@@ -1,5 +1,5 @@
-\     <p align="right">
-\   <img src="image.png" alt="Muhammad Imran Banner" style="width:60%;" />
+/     <p align="right">
+/  <img src="image.png" alt="Muhammad Imran Banner" style="width:60%;" />
 </p>
 Hi, I’m Muhammad Imran.  
 Computer science student building real software systems and applied AI projects.
