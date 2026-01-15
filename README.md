@@ -1,7 +1,6 @@
 <p align="center">
   <img src="image.png" alt="Muhammad Imran Banner" style="width:100%;" />
 </p>
----
 
 Hi, I’m Muhammad Imran.  
 Computer science student building real software systems and applied AI projects.
