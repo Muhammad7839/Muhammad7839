@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" alt="Muhammad Imran Banner" style="width:100%;" />
+  <img src="image.png" alt="Muhammad Imran Banner" style="width:50%;" />
 </p>
 
 Hi, I’m Muhammad Imran.  
