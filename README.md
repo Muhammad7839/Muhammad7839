@@ -6,7 +6,7 @@ Hi, I’m Muhammad Imran.
 Computer science student building real software systems and applied AI projects.
 
 I focus on clean architecture, strong fundamentals, and projects that solve real problems.  
-My best work is pinned below — start there.
+My best work is pinned below.
 
 ---
 
