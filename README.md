@@ -1,4 +1,3 @@
-
 Hi, I’m Muhammad Imran.  
 Computer science student building real software systems and applied AI projects.
 
