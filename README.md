@@ -30,7 +30,7 @@
 
 **Farmingdale State College**  
 Bachelor of Science in Computer Science  
-📍 Long Island, NY | 🎓 Expected: May 2026 | 🎖 Dean’s List
+📍 Long Island, NY | 🎓 Expected: May 2026 | 🎖 President’s List
 
 ---
 
