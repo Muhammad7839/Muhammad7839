@@ -20,11 +20,9 @@ I build full-stack Java applications, JavaFX desktop software, Android apps, and
 
 ## 🚀 Featured Projects
 
-### 📈 StockVision – Retail Stock Forecasting
+### 📈 MarketForecastAI – Retail Stock Forecasting
 *Python | Time Series | Machine Learning*  
 Time-series forecasting project comparing Facebook Prophet and ARIMA on real stock data (AMZN, COST) from 2022–2025. Includes preprocessing, model training, visualizations, and evaluation using MAE and RMSE.
-
-🎥 Demo / Walkthrough: ADD_LINK_HERE
 
 ---
 
@@ -32,8 +30,8 @@ Time-series forecasting project comparing Facebook Prophet and ARIMA on real sto
 *Java | Spring Boot | JavaFX | MySQL (Azure)*  
 Full-stack finance application with secure authentication, budget tracking, transaction management, and savings goals. Features a JavaFX desktop UI connected to Spring Boot REST APIs and an Azure-hosted MySQL database.
 
-🎥 Detailed Presentation / Demo: ADD_LINK_HERE  
-🎥 Short Overview Video: ADD_LINK_HERE
+🎥  Demo: https://youtu.be/d7Ji9XbgX3I
+
 
 ---
 
@@ -57,7 +55,7 @@ Android app designed to help beginners understand Kotlin code. Users paste code,
 *Java | JavaFX | Firebase Firestore*  
 Full-stack Java application for managing academic tasks with cloud persistence. Combines a JavaFX frontend with a Firebase Firestore backend, featuring authentication, task analytics, calendar views, and light/dark themes.
 
-🎥 Demo Video: ADD_LINK_HERE
+🎥 Demo Video: https://youtu.be/lPuLvdT11YU?si=gokdtvb0qqLvzCrs
 
 ---
 
@@ -73,8 +71,8 @@ Full-stack Java application for managing academic tasks with cloud persistence. 
 ## 📫 Contact
 
 - Email: imranabdullah926@gmail.com  
-- Portfolio: YOUR_PORTFOLIO_LINK  
-- LinkedIn: YOUR_LINKEDIN_LINK
+- Portfolio: https://muhammad7839.github.io/portfolio 
+- LinkedIn: https://www.linkedin.com/in/muhammadimran7839/
 
 ---
 
