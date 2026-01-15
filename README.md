@@ -87,8 +87,6 @@ Fully responsive multi-section event site with RSVP form, testimonials, video, d
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&hide_border=true" />
 </p>
