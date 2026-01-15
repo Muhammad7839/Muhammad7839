@@ -31,7 +31,7 @@ Full-stack finance application with secure authentication, budget tracking, tran
 
 ---
 
-### 🎮 CardGame-24 – Arithmetic Challenge
+### 🎮 Formula24 – Arithmetic Challenge
 *JavaFX | Game Logic | Gemini API*  
 Interactive JavaFX game where players form arithmetic expressions using four cards to reach 24. Includes AI-generated hints, shuffle animations, and a clean, responsive UI.
 
