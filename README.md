@@ -1,4 +1,4 @@
-  <img src="image1.png" alt="Muhammad Imran Banner" style="width:80%;" />
+  <img src="image1.png" alt="Muhammad Imran Banner" style="width:100%;" />
 </p>Hi, I’m Muhammad Imran.  
 Computer science student building real software systems and applied AI projects.
 
