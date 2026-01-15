@@ -26,7 +26,7 @@ Time-series forecasting project comparing Facebook Prophet and ARIMA on real sto
 *Java | Spring Boot | JavaFX | MySQL (Azure)*  
 Full-stack finance application with secure authentication, budget tracking, transaction management, and savings goals. Features a JavaFX desktop UI connected to Spring Boot REST APIs and an Azure-hosted MySQL database.
 
-🎥  Demo: https://youtu.be/d7Ji9XbgX3I
+🎥  Walkthrough: https://youtu.be/d7Ji9XbgX3I
 
 
 ---
@@ -35,7 +35,7 @@ Full-stack finance application with secure authentication, budget tracking, tran
 *JavaFX | Game Logic | Gemini API*  
 Interactive JavaFX game where players form arithmetic expressions using four cards to reach 24. Includes AI-generated hints, shuffle animations, and a clean, responsive UI.
 
-🎥 Demo Video: https://youtu.be/KOG_xwrZXik
+🎥 Walkthrough: https://youtu.be/KOG_xwrZXik
 
 ---
 
@@ -43,7 +43,7 @@ Interactive JavaFX game where players form arithmetic expressions using four car
 *Kotlin | Android | MVVM*  
 Android app designed to help beginners understand Kotlin code. Users paste code, analyze it, and receive clear explanations for errors, structure issues, and improvements. Includes history tracking, progress levels, settings, and a polished multi-screen UI.
 
-🎥 Demo Video: https://youtu.be/Di1P4Hz05n4
+🎥  Walkthrough:  https://youtu.be/Di1P4Hz05n4
 
 ---
 
@@ -51,7 +51,7 @@ Android app designed to help beginners understand Kotlin code. Users paste code,
 *Java | JavaFX | Firebase Firestore*  
 Full-stack Java application for managing academic tasks with cloud persistence. Combines a JavaFX frontend with a Firebase Firestore backend, featuring authentication, task analytics, calendar views, and light/dark themes.
 
-🎥 Demo Video: https://youtu.be/lPuLvdT11YU?si=gokdtvb0qqLvzCrs
+🎥  Walkthrough:  https://youtu.be/lPuLvdT11YU?si=gokdtvb0qqLvzCrs
 
 ---
 
