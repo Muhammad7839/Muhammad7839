@@ -56,6 +56,14 @@ Full-stack Java application for managing academic tasks with cloud persistence. 
 
 🎥 Demo Video: https://youtu.be/lPuLvdT11YU?si=gokdtvb0qqLvzCrs
 
+### 🌐 Event Website
+
+*HTML | CSS | JavaScript*
+
+Fully responsive multi-section event site with RSVP form, testimonials, video, dark mode, and countdown.
+
+🌍 [Live Site](https://sage-lively-needle-305.vscodeedu.app/)
+
 ---
 
 ## 🛠️ Tech Focus
@@ -78,6 +86,7 @@ Full-stack Java application for managing academic tasks with cloud persistence. 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical" />
+<img src="[https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Muhammad7839&show_icons=true&theme=radical)" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad7839&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad7839&layout=compact&theme=radical)" />
 </p>
 
