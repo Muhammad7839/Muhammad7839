@@ -4,11 +4,17 @@
 
 ---
 
+Hi, I’m Muhammad Imran.
+Computer science student building real software and applied AI projects.
+
+I focus on clean code, strong fundamentals, and projects that solve actual problems.
+My best work is pinned below
+
 ## 🧠 About Me
 
-🎓 I'm an undergraduate at **Farmingdale State College**, majoring in Computer Science with a minor in Applied Mathematics.  
-💡 Passionate about building practical applications and exploring how AI can improve everyday tasks.  
-🚀 Currently focused on JavaFX, Spring Boot, and full-stack development.
+Computer science undergraduate at Farmingdale State College (SUNY).
+I enjoy building structured backend systems, JavaFX applications, and ML-based tools, with a focus on clarity, performance, and real-world use.
+
 
 ---
 
