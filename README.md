@@ -1,59 +1,82 @@
-Muhammad Imran
+# Muhammad Imran
 
-Software Engineer, Farmingdale State College '26 (CS, minor in Applied Math). Linux Foundation LFX Mentee on the Zowe Client Java SDK. Full-stack and backend, with a growing focus on applied AI. Currently a Software Support Technician at BRdata.
+Full Stack AI Engineer building production systems across web applications, APIs, data, mobile, and AI workflows.
 
-I build production systems in Java, Python, FastAPI, and React. Recent work includes contributing production Java to IBM z/OS mainframe tooling used across financial, healthcare, and government systems, and shipping two independently built full-stack products end to end.
+I am a May 2026 Computer Science graduate from Farmingdale State College with a minor in Applied Mathematics. I contribute production Java to the Zowe Client Java SDK through Linux Foundation LFX, work as a Software Support Technician at BRdata, and build full stack products with measurable tests, live deployments, and clear technical ownership.
 
-## Featured Projects
+Open to Full Stack AI Engineer opportunities.
 
-### Zowe Client Java SDK — Linux Foundation LFX Mentee
+## Selected Engineering Work
 
-Java, Maven, IBM z/OS | May 2026 – Present
+### [FitGPT](https://github.com/Muhammad7839/FitGPT): AI Wardrobe Assistant
 
-Selected from a global applicant pool for the Linux Foundation LFX Mentorship. Implementing 11 production-grade Java methods across the complete z/OSMF Workflow REST API lifecycle for IBM z/OS mainframe automation. Merged pull requests:
-- [Add zosmfworkflow package with archived workflow DELETE and LIST APIs](https://github.com/zowe/zowe-client-java-sdk/pull/514)
-- [Add z/OSMF create/update system variables API method](https://github.com/zowe/zowe-client-java-sdk/pull/531)
-- [Fix WorkflowArchive.archive() NullPointerException on missing request body](https://github.com/zowe/zowe-client-java-sdk/pull/560)
+`FastAPI` `React` `PostgreSQL` `Kotlin` `Groq API` `GitHub Actions`
 
-### FitGPT — AI Wardrobe Assistant
+Led backend development for a cross platform AI wardrobe platform with JWT authentication, Google OAuth, live weather, wardrobe management, and personalized outfit recommendations. Delivered 12+ features across three Agile sprints, supported by 185+ backend tests, 617 web tests, and automated CI.
 
-FastAPI, React, PostgreSQL, Android (Kotlin) | Feb 2026 – May 2026
+[Live product](https://fitgpt.tech) · [Source code](https://github.com/Muhammad7839/FitGPT)
 
-Led backend development in an Agile team. FastAPI and PostgreSQL service with JWT auth, Google OAuth, and weather-driven recommendations for 175+ wardrobe items. 12+ features across 3 sprints, 185+ backend tests, 617 web tests, full CI/CD. Live at fitgpt.tech.
+### AURA Forge: Agentic Engineering Paved Road
 
-### SolarShare — Solar Energy Marketplace
+`Agent workflows` `Evaluation` `Policy gates` `CI` `ADRs` `Operations`
 
-FastAPI, Next.js, TypeScript | Jan 2025 – Present
+Completed the final LaunchCode Agentic Engineering capstone by turning FitGPT's AURA workflow into a repeatable engineering paved road. The work includes repository scoped instructions, deterministic evaluation gates, traceable CI evidence, architecture decisions, an operations runbook, stakeholder documentation, and a reproducible submission package.
 
-Co-founder and full-stack developer. Solar energy marketplace with payment rails, 3-role RBAC, and a 4-stage billing lifecycle. Financial modeling engine with 12-month seasonal savings projections and automated utility rate refresh across 3+ NY regions. 1st place, 2025 PSEG Long Island Innovation Challenge. Competed at the 2026 Hult Prize USA East.
+Repository access is private because this was completed inside an authorized course workspace.
 
-### MarketForecastAI — Retail Stock Forecasting
+### [Zowe Client Java SDK](https://github.com/Muhammad7839/zowe-client-java-sdk): Linux Foundation LFX
 
-Python, Time Series, Machine Learning | Jun 2025 – Aug 2025
+`Java` `Maven` `REST APIs` `IBM z/OS`
 
-Prophet and ARIMA models on 3+ years of real market data (AMZN, COST), a 15% accuracy gain over baseline. AI4ALL Ignite certified, demoed to 50+ mentors and 100+ users.
+Selected as a Linux Foundation LFX Mentee to extend the z/OSMF Workflow REST API lifecycle in the open source Zowe Java SDK. Working across 11 production Java methods for enterprise mainframe automation.
 
-### CodeSensei — Kotlin Code Learning Companion
+Verified merged pull requests:
 
-Kotlin, Android, MVVM
+1. [Archived workflow DELETE and LIST APIs](https://github.com/zowe/zowe-client-java-sdk/pull/514)
+2. [Create and update system variables API](https://github.com/zowe/zowe-client-java-sdk/pull/531)
+3. [Fix WorkflowArchive null request body failure](https://github.com/zowe/zowe-client-java-sdk/pull/560)
 
-Android app that explains Kotlin code errors and structure to beginners, with history tracking and a multi-screen UI.
+### [SolarShare](https://github.com/Muhammad7839/SolarShare): Solar Energy Marketplace
 
-### FinTrack — Personal Finance Management App
+`FastAPI` `Next.js` `TypeScript` `Role based access` `Financial modeling`
 
-Java, Spring Boot, JavaFX, MySQL (Azure)
+Co-founded and built a solar energy marketplace with payment rails, three user roles, a four stage billing lifecycle, and auditable 12 month savings projections across New York utility regions. Won first place at the 2025 PSEG Long Island Innovation Challenge.
 
-Team project. Led backend development with Spring Boot, also contributed to the JavaFX frontend. Secure auth, budget tracking, transaction management, and savings goals on an Azure-hosted MySQL database.
+[Live product](https://solar-share-green.vercel.app) · [Source code](https://github.com/Muhammad7839/SolarShare)
 
-## Tech Focus
+### [StockVision](https://github.com/Muhammad7839/MarketForecastAI): AI Stock Forecasting
 
-Languages: Java, Python, TypeScript, JavaScript, Kotlin, SQL
-Frameworks: FastAPI, React, Next.js, Spring Boot, Jetpack Compose
-AI/ML: Groq API (Llama 3.1), Prophet, ARIMA
-Tools: Git, GitHub Actions, Docker, PostgreSQL, MySQL, Firebase
+`Python` `Prophet` `ARIMA` `Time series` `React`
+
+Built through AI4ALL Ignite using more than three years of AMZN and COST market data. Compared Prophet and ARIMA forecasts with MAE and RMSE, documented model behavior, and presented the results through visualizations.
+
+[Source code and results](https://github.com/Muhammad7839/MarketForecastAI)
+
+### [CodeSensei](https://github.com/Muhammad7839/CodeSensei): Kotlin Learning Companion
+
+`Kotlin` `Android` `MVVM` `Local persistence`
+
+Built an Android learning companion that explains common Kotlin structure and syntax problems for beginners. Includes detailed issue views, saved analysis history, appearance settings, progress levels, and a multi screen interface.
+
+[Source code](https://github.com/Muhammad7839/CodeSensei) · [Video demo](https://youtu.be/Di1P4Hz05n4)
+
+### [FinTrack](https://github.com/Muhammad7839/FinTrack): Personal Finance Platform
+
+`Java` `Spring Boot` `JavaFX` `MySQL` `Azure`
+
+Led backend development for a team finance application. Built Spring Boot services for authentication, budgets, transactions, and savings goals, then integrated them with a JavaFX client and an Azure hosted MySQL database.
+
+[Source code](https://github.com/Muhammad7839/FinTrack) · [Video demo](https://youtu.be/d7Ji9XbgX3I)
+
+## Technical Focus
+
+* Languages: Java, Python, TypeScript, JavaScript, Kotlin, SQL
+* Full stack: FastAPI, React, Next.js, Spring Boot, Jetpack Compose
+* AI and ML: agent workflows, Groq and Llama 3.1, Prophet, ARIMA, TensorFlow.js, MobileNet
+* Data and delivery: PostgreSQL, MySQL, Firebase, Docker, GitHub Actions, Vercel, Render
 
 ## Contact
 
-Email: imranabdullah926@gmail.com
-Portfolio: https://muhammad7839.github.io/portfolio
-LinkedIn: https://www.linkedin.com/in/muhammadimran-swe/
+* [Portfolio](https://muhammad7839.github.io/portfolio)
+* [LinkedIn](https://www.linkedin.com/in/muhammadimran-swe/)
+* Email: imranabdullah926@gmail.com
