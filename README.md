@@ -42,7 +42,7 @@ Verified merged pull requests:
 
 Co-founded and built a solar energy marketplace with payment rails, three user roles, a four stage billing lifecycle, and auditable 12 month savings projections across New York utility regions. Won first place at the 2025 PSEG Long Island Innovation Challenge.
 
-[Live product](https://solar-share-green.vercel.app) · [Source code](https://github.com/Muhammad7839/SolarShare)
+[Live product](https://solarshare-web.vercel.app) · [Source code](https://github.com/Muhammad7839/SolarShare)
 
 ### [StockVision](https://github.com/Muhammad7839/MarketForecastAI): AI Stock Forecasting
 
