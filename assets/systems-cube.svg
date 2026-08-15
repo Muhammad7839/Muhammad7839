@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title description">
+  <title id="title">Muhammad Imran, Full Stack AI Engineer</title>
+  <desc id="description">A systems cube connecting product interfaces, backend platforms, and applied AI.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111C2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset="0.52" stop-color="#3FB950"/>
+      <stop offset="1" stop-color="#D2A8FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="278" rx="22" fill="url(#background)" stroke="#30363D" stroke-width="2"/>
+  <rect x="56" y="56" width="82" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="56" y="101" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="1.4">FULL STACK AI ENGINEER</text>
+  <text x="56" y="137" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0.45">Building reliable products across interfaces, APIs, data, and AI.</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8">
+    <rect x="56" y="174" width="112" height="36" rx="18" fill="#13233A" stroke="#1F6FEB"/>
+    <text x="112" y="197" fill="#79C0FF" text-anchor="middle">PRODUCT</text>
+    <rect x="180" y="174" width="112" height="36" rx="18" fill="#132A1D" stroke="#238636"/>
+    <text x="236" y="197" fill="#7EE787" text-anchor="middle">PLATFORM</text>
+    <rect x="304" y="174" width="136" height="36" rx="18" fill="#251A35" stroke="#8957E5"/>
+    <text x="372" y="197" fill="#D2A8FF" text-anchor="middle">INTELLIGENCE</text>
+  </g>
+
+  <g transform="translate(674 32)" filter="url(#shadow)" stroke="#0D1117" stroke-width="4" stroke-linejoin="round">
+    <polygon points="0,58 110,0 220,58 110,116" fill="#1F6FEB"/>
+    <path d="M36.67 38.67L146.67 96.67M73.33 19.33L183.33 77.33M73.33 96.67L183.33 38.67M36.67 77.33L146.67 19.33" fill="none"/>
+
+    <polygon points="0,58 110,116 110,236 0,178" fill="#238636"/>
+    <path d="M36.67 77.33V197.33M73.33 96.67V216.67M0 98L110 156M0 138L110 196" fill="none"/>
+
+    <polygon points="110,116 220,58 220,178 110,236" fill="#8957E5"/>
+    <path d="M146.67 96.67V216.67M183.33 77.33V197.33M110 156L220 98M110 196L220 138" fill="none"/>
+  </g>
+
+</svg>
