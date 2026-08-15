@@ -48,10 +48,6 @@
       <stop offset="0.65" stop-color="#42D8FF"/>
       <stop offset="1" stop-color="#665CFF"/>
     </radialGradient>
-    <filter id="cubeShadow" x="-45%" y="-45%" width="190%" height="210%">
-      <feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#00030A" flood-opacity="0.72"/>
-      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#35CFFF" flood-opacity="0.32"/>
-    </filter>
     <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
