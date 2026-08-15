@@ -1,5 +1,9 @@
 # Muhammad Imran
 
+<p align="center">
+  <img src="assets/systems-cube.svg" width="960" alt="Systems cube connecting product interfaces, backend platforms, and applied AI for Muhammad Imran, Full Stack AI Engineer." />
+</p>
+
 Full Stack AI Engineer building production systems across web applications, APIs, data, mobile, and AI workflows.
 
 I am a May 2026 Computer Science graduate from Farmingdale State College with a minor in Applied Mathematics. I contribute production Java to the Zowe Client Java SDK through Linux Foundation LFX, work as a Software Support Technician at BRdata, and build full stack products with measurable tests, live deployments, and clear technical ownership.
