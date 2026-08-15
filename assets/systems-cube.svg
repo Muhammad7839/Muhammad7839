@@ -1,46 +1,156 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title description">
   <title id="title">Muhammad Imran, Full Stack AI Engineer</title>
-  <desc id="description">A systems cube connecting product interfaces, backend platforms, and applied AI.</desc>
+  <desc id="description">A dimensional Systems Cube connecting product interfaces, backend platforms, data, and applied artificial intelligence.</desc>
 
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#111C2E"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050912"/>
+      <stop offset="0.55" stop-color="#091321"/>
+      <stop offset="1" stop-color="#10142B"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58A6FF"/>
-      <stop offset="0.52" stop-color="#3FB950"/>
-      <stop offset="1" stop-color="#D2A8FF"/>
+    <radialGradient id="aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#36D7FF" stop-opacity="0.28"/>
+      <stop offset="0.48" stop-color="#635BFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#050912" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#62E6FF"/>
+      <stop offset="0.5" stop-color="#65F2B4"/>
+      <stop offset="1" stop-color="#A98BFF"/>
     </linearGradient>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
-      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.42"/>
+    <linearGradient id="topFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#B8F6FF"/>
+      <stop offset="0.24" stop-color="#4DDCFF"/>
+      <stop offset="0.68" stop-color="#337BFF"/>
+      <stop offset="1" stop-color="#615BFF"/>
+    </linearGradient>
+    <linearGradient id="leftFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34E8B7"/>
+      <stop offset="0.55" stop-color="#0BAE9A"/>
+      <stop offset="1" stop-color="#075D72"/>
+    </linearGradient>
+    <linearGradient id="rightFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9B8CFF"/>
+      <stop offset="0.52" stop-color="#7257E8"/>
+      <stop offset="1" stop-color="#422B91"/>
+    </linearGradient>
+    <linearGradient id="topGloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.65"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.105"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.025"/>
+    </linearGradient>
+    <radialGradient id="core" cx="38%" cy="30%" r="74%">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.25" stop-color="#A7F3FF"/>
+      <stop offset="0.65" stop-color="#42D8FF"/>
+      <stop offset="1" stop-color="#665CFF"/>
+    </radialGradient>
+    <filter id="cubeShadow" x="-45%" y="-45%" width="190%" height="210%">
+      <feDropShadow dx="0" dy="18" stdDeviation="15" flood-color="#00030A" flood-opacity="0.72"/>
+      <feDropShadow dx="0" dy="2" stdDeviation="5" flood-color="#35CFFF" flood-opacity="0.32"/>
     </filter>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="nodeGlow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="2.8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frameClip"><rect x="1" y="1" width="958" height="278" rx="24"/></clipPath>
   </defs>
 
-  <rect x="1" y="1" width="958" height="278" rx="22" fill="url(#background)" stroke="#30363D" stroke-width="2"/>
-  <rect x="56" y="56" width="82" height="4" rx="2" fill="url(#accent)"/>
-
-  <text x="56" y="101" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="1.4">FULL STACK AI ENGINEER</text>
-  <text x="56" y="137" fill="#8B949E" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="0.45">Building reliable products across interfaces, APIs, data, and AI.</text>
-
-  <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="0.8">
-    <rect x="56" y="174" width="112" height="36" rx="18" fill="#13233A" stroke="#1F6FEB"/>
-    <text x="112" y="197" fill="#79C0FF" text-anchor="middle">PRODUCT</text>
-    <rect x="180" y="174" width="112" height="36" rx="18" fill="#132A1D" stroke="#238636"/>
-    <text x="236" y="197" fill="#7EE787" text-anchor="middle">PLATFORM</text>
-    <rect x="304" y="174" width="136" height="36" rx="18" fill="#251A35" stroke="#8957E5"/>
-    <text x="372" y="197" fill="#D2A8FF" text-anchor="middle">INTELLIGENCE</text>
+  <g clip-path="url(#frameClip)">
+    <rect width="960" height="280" fill="url(#bg)"/>
+    <ellipse cx="790" cy="137" rx="265" ry="210" fill="url(#aura)"/>
+    <path d="M-40 236C149 184 344 233 546 176S886 63 1024 106" fill="none" stroke="#35D7FF" stroke-opacity="0.075" stroke-width="1"/>
+    <path d="M-24 254C194 198 345 259 589 184S851 43 1010 73" fill="none" stroke="#9F83FF" stroke-opacity="0.07" stroke-width="1"/>
+    <g opacity="0.24" fill="#73E7FF">
+      <circle cx="38" cy="236" r="1.4"/><circle cx="162" cy="214" r="1.2"/><circle cx="293" cy="234" r="1.5"/>
+      <circle cx="462" cy="199" r="1.2"/><circle cx="534" cy="175" r="1.8"/>
+    </g>
   </g>
 
-  <g transform="translate(674 32)" filter="url(#shadow)" stroke="#0D1117" stroke-width="4" stroke-linejoin="round">
-    <polygon points="0,58 110,0 220,58 110,116" fill="#1F6FEB"/>
-    <path d="M36.67 38.67L146.67 96.67M73.33 19.33L183.33 77.33M73.33 96.67L183.33 38.67M36.67 77.33L146.67 19.33" fill="none"/>
+  <rect x="1" y="1" width="958" height="278" rx="24" fill="none" stroke="#26364B" stroke-width="2"/>
 
-    <polygon points="0,58 110,116 110,236 0,178" fill="#238636"/>
-    <path d="M36.67 77.33V197.33M73.33 96.67V216.67M0 98L110 156M0 138L110 196" fill="none"/>
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <g transform="translate(54 40)">
+      <circle cx="5" cy="5" r="4" fill="#67E8F9" filter="url(#nodeGlow)"/>
+      <text x="18" y="9" fill="#9CB3C9" font-size="11" font-weight="700" letter-spacing="2.15">MUHAMMAD IMRAN · SYSTEMS ENGINEERING</text>
+    </g>
 
-    <polygon points="110,116 220,58 220,178 110,236" fill="#8957E5"/>
-    <path d="M146.67 96.67V216.67M183.33 77.33V197.33M110 156L220 98M110 196L220 138" fill="none"/>
+    <text x="54" y="94" fill="#F5FAFF" font-size="31" font-weight="760" letter-spacing="0.7">FULL STACK AI ENGINEER</text>
+    <text x="54" y="126" fill="#9DB0C5" font-size="15.5" font-weight="450" letter-spacing="0.12">Interfaces, APIs, data, and intelligence—engineered as one reliable system.</text>
+
+    <g transform="translate(54 157)" font-size="11" font-weight="760" letter-spacing="1.25">
+      <g>
+        <rect width="112" height="34" rx="17" fill="url(#glass)" stroke="#4CDCFB" stroke-opacity="0.44"/>
+        <circle cx="17" cy="17" r="3.5" fill="#61E5FF" filter="url(#nodeGlow)"/>
+        <text x="30" y="21" fill="#C8F7FF">PRODUCT</text>
+      </g>
+      <g transform="translate(122)">
+        <rect width="118" height="34" rx="17" fill="url(#glass)" stroke="#48E3A7" stroke-opacity="0.42"/>
+        <circle cx="17" cy="17" r="3.5" fill="#55EDB0" filter="url(#nodeGlow)"/>
+        <text x="30" y="21" fill="#C8FFE8">PLATFORM</text>
+      </g>
+      <g transform="translate(250)">
+        <rect width="144" height="34" rx="17" fill="url(#glass)" stroke="#9B83FF" stroke-opacity="0.48"/>
+        <circle cx="17" cy="17" r="3.5" fill="#AA91FF" filter="url(#nodeGlow)"/>
+        <text x="30" y="21" fill="#E8E0FF">INTELLIGENCE</text>
+      </g>
+    </g>
+
+    <g transform="translate(54 220)">
+      <rect width="392" height="2" rx="1" fill="#223349"/>
+      <rect width="242" height="2" rx="1" fill="url(#signal)"/>
+      <circle cx="242" cy="1" r="3.5" fill="#70E8FF" filter="url(#nodeGlow)"/>
+      <text x="0" y="25" fill="#71879E" font-size="10.5" font-weight="650" letter-spacing="1.3">BUILD · INTEGRATE · DEPLOY · LEARN</text>
+    </g>
   </g>
 
+  <g transform="translate(646 21)">
+    <ellipse cx="154" cy="231" rx="126" ry="20" fill="#00050C" opacity="0.7"/>
+    <ellipse cx="154" cy="226" rx="91" ry="9" fill="#40CCFF" opacity="0.11" filter="url(#softGlow)"/>
+
+    <path d="M5 116C30 20 254 -8 298 92" fill="none" stroke="#64E5FF" stroke-opacity="0.24" stroke-width="1.2"/>
+    <path d="M17 181C74 253 259 242 301 145" fill="none" stroke="#9D84FF" stroke-opacity="0.22" stroke-width="1.2"/>
+    <path d="M35 52C117 7 258 34 294 121" fill="none" stroke="#56E8AF" stroke-opacity="0.13" stroke-width="1" stroke-dasharray="3 7"/>
+    <g filter="url(#nodeGlow)">
+      <circle cx="7" cy="116" r="3" fill="#5EE4FF"/>
+      <circle cx="299" cy="92" r="3" fill="#8E7BFF"/>
+      <circle cx="18" cy="181" r="2.8" fill="#50E7AF"/>
+      <circle cx="300" cy="145" r="2.8" fill="#A58AFF"/>
+    </g>
+
+    <g stroke="#07101D" stroke-width="3" stroke-linejoin="round">
+      <polygon points="50,69 151,15 252,69 151,123" fill="url(#topFace)"/>
+      <polygon points="50,69 151,123 151,227 50,173" fill="url(#leftFace)"/>
+      <polygon points="151,123 252,69 252,173 151,227" fill="url(#rightFace)"/>
+      <path d="M83.67 51L184.67 105M117.33 33L218.33 87M83.67 87L184.67 33M117.33 105L218.33 51" fill="none"/>
+      <path d="M83.67 87V191M117.33 105V209M50 103.67L151 157.67M50 138.33L151 192.33" fill="none"/>
+      <path d="M184.67 105V209M218.33 87V191M151 157.67L252 103.67M151 192.33L252 138.33" fill="none"/>
+    </g>
+
+    <path d="M51 68.5L151 15.7L251 68.5" fill="none" stroke="#D3FAFF" stroke-opacity="0.62" stroke-width="1.6"/>
+    <path d="M51 69.8L151 123.5L251 69.8" fill="none" stroke="#D5F8FF" stroke-opacity="0.26" stroke-width="1.2"/>
+    <path d="M50.8 70.3V172.4L151 226" fill="none" stroke="#72F1CE" stroke-opacity="0.38" stroke-width="1.2"/>
+    <path d="M251.2 70.3V172.4L151 226" fill="none" stroke="#B3A5FF" stroke-opacity="0.35" stroke-width="1.2"/>
+    <polygon points="52,69 151,16 250,69 151,89" fill="url(#topGloss)" opacity="0.25"/>
+
+    <g transform="translate(151 122)" filter="url(#softGlow)">
+      <polygon points="0,-29 27,-14 0,1 -27,-14" fill="url(#core)" stroke="#E2FBFF" stroke-width="1.4"/>
+      <polygon points="-27,-14 0,1 0,31 -27,16" fill="#23C9B2" stroke="#A9FFF0" stroke-opacity="0.7" stroke-width="1.2"/>
+      <polygon points="0,1 27,-14 27,16 0,31" fill="#725DFF" stroke="#D7CEFF" stroke-opacity="0.72" stroke-width="1.2"/>
+      <circle cx="0" cy="-14" r="4.2" fill="#FFFFFF"/>
+    </g>
+
+    <g fill="#D8FAFF" filter="url(#nodeGlow)">
+      <circle cx="84" cy="86" r="2.2"/><circle cx="117" cy="104" r="2.2"/>
+      <circle cx="185" cy="104" r="2.2"/><circle cx="218" cy="86" r="2.2"/>
+      <circle cx="84" cy="157" r="2"/><circle cx="218" cy="157" r="2"/>
+    </g>
+  </g>
 </svg>
