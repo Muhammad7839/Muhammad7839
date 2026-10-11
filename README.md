@@ -83,4 +83,4 @@ Led backend development for a team finance application. Built Spring Boot servic
 
 * [Portfolio](https://muhammad7839.github.io/portfolio)
 * [LinkedIn](https://www.linkedin.com/in/muhammadimran-swe/)
-* Email: imrama@farmingdale.edu
+* Email: imranabdullah926@gmail.com
