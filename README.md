@@ -6,7 +6,7 @@
 
 Full Stack AI Engineer building production systems across web applications, APIs, data, mobile, and AI workflows.
 
-I am a May 2026 Computer Science graduate from Farmingdale State College with a minor in Applied Mathematics. I contribute production Java to the Zowe Client Java SDK through Linux Foundation LFX, work as a Software Support Technician at BRdata, and build full stack products with measurable tests, live deployments, and clear technical ownership.
+I am a May 2026 Computer Science graduate from Farmingdale State College (President's List) with a minor in Applied Mathematics, starting Georgia Tech's OMSCS program in Spring 2027. I contribute production Java to the Zowe Client Java SDK through Linux Foundation LFX, work as a Software Support Technician at BRdata, and build full stack products with measurable tests, live deployments, and clear technical ownership.
 
 Open to Full Stack AI Engineer opportunities.
 
@@ -20,13 +20,13 @@ Led backend development for a cross platform AI wardrobe platform with JWT authe
 
 [Live product](https://fitgpt.tech) · [Source code](https://github.com/Muhammad7839/FitGPT)
 
-### AURA Forge: Agentic Engineering Paved Road
+### [AURA Forge](https://github.com/Muhammad7839/AuraForge): Agentic Engineering Paved Road
 
 `Agent workflows` `Evaluation` `Policy gates` `CI` `ADRs` `Operations`
 
 Completed the final LaunchCode Agentic Engineering capstone by turning FitGPT's AURA workflow into a repeatable engineering paved road. The work includes repository scoped instructions, deterministic evaluation gates, traceable CI evidence, architecture decisions, an operations runbook, stakeholder documentation, and a reproducible submission package.
 
-Repository access is private because this was completed inside an authorized course workspace.
+[Source code](https://github.com/Muhammad7839/AuraForge)
 
 ### [Zowe Client Java SDK](https://github.com/Muhammad7839/zowe-client-java-sdk): Linux Foundation LFX
 
@@ -44,7 +44,7 @@ Verified merged pull requests:
 
 `FastAPI` `Next.js` `TypeScript` `Role based access` `Financial modeling`
 
-Co-founded and built a solar energy marketplace with payment rails, three user roles, a four stage billing lifecycle, and auditable 12 month savings projections across New York utility regions. Won first place at the 2025 PSEG Long Island Innovation Challenge.
+Co-founded and built a solar energy marketplace with payment rails, three user roles, a four stage billing lifecycle, and auditable 12 month savings projections across New York utility regions. Won first place at the 2025 PSEG Long Island Innovation Challenge and was a top-10 U.S. finalist at Hult Prize.
 
 [Source code](https://github.com/Muhammad7839/SolarShare)
 
@@ -83,4 +83,4 @@ Led backend development for a team finance application. Built Spring Boot servic
 
 * [Portfolio](https://muhammad7839.github.io/portfolio)
 * [LinkedIn](https://www.linkedin.com/in/muhammadimran-swe/)
-* Email: imranabdullah926@gmail.com
+* Email: imrama@farmingdale.edu
