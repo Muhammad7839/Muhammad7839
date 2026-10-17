@@ -20,9 +20,9 @@
 
 - 🔭 **Software Support Technician** at **BRdata** (Jun 2026–Present), Melville, NY
 - 🌱 **Linux Foundation LFX Mentee** (May–Sep 2026): shipped 11 production Java methods for the **Zowe Client Java SDK v7.0.0** — [PR #514](https://github.com/zowe/zowe-client-java-sdk/pull/514), [#531](https://github.com/zowe/zowe-client-java-sdk/pull/531), [#560](https://github.com/zowe/zowe-client-java-sdk/pull/560)
-- 🚀 **Co-Founder & Full-Stack Developer**, [SolarShare](https://github.com/Muhammad7839/SolarShare): **1st of 15 teams** at the 2025 PSEG Long Island Innovation Challenge · **Top-10 U.S. finalist** at Hult Prize
+- 🚀 **Co-Founder & Full-Stack Developer**, [SolarShare](https://github.com/Muhammad7839/SolarShare): **1st of 15 teams** at the 2025 PSEG Long Island Innovation Challenge · 1st of 15 teams, advanced to the 2026 Hult Prize USA East
 - 🎓 B.S. Computer Science, **Farmingdale State College** (May 2026, President's List) · Starting **Georgia Tech OMSCS** in Spring 2027
-- 💡 I build full-stack products with measurable tests, live deployments, and clear technical ownership
+- 💡 I build full-stack products with measurable tests, CI-verified deployments, and clear technical ownership
 
 ## 🛠️ Tech Stack
 
@@ -52,7 +52,7 @@
 
 Led backend development for a cross-platform AI wardrobe platform with JWT authentication, Google OAuth, live weather, wardrobe management, and personalized outfit recommendations. Delivered 12+ features across three Agile sprints, supported by 185+ backend tests, 617 web tests, and automated CI.
 
-[Live product](https://fitgpt.tech) · [Source code](https://github.com/Muhammad7839/FitGPT)
+Relaunching soon · [Source code](https://github.com/Muhammad7839/FitGPT)
 
 ### [AURA Forge](https://github.com/Muhammad7839/AuraForge): Agentic Engineering Paved Road
 
@@ -76,7 +76,7 @@ Selected as a Linux Foundation LFX Mentee to extend the z/OSMF Workflow REST API
 
 `FastAPI` `Next.js` `TypeScript` `Role-based access` `Financial modeling`
 
-Co-founded and built a solar energy marketplace with payment rails, three user roles, a four-stage billing lifecycle, and auditable 12-month savings projections across New York utility regions. Won first place at the 2025 PSEG Long Island Innovation Challenge and was a top-10 U.S. finalist at Hult Prize.
+Co-founded and built a solar energy marketplace with payment rails, three user roles, a four-stage billing lifecycle, and auditable 12-month savings projections across New York utility regions. Won first place at the 2025 PSEG Long Island Innovation Challenge; 1st of 15 teams, advanced to the 2026 Hult Prize USA East.
 
 [Source code](https://github.com/Muhammad7839/SolarShare)
 
