@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Muhammad7839">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin;Linux+Foundation+LFX+Mentee;Building+production+AI+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+AI+Engineer;Java+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Kotlin;Linux+Foundation+LFX+Mentorship+Graduate;Building+production+AI+systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 - 🔭 **Software Support Technician** at **BRdata** (Jun 2026–Present), Melville, NY
 - 🌱 **Linux Foundation LFX Mentee** (May–Sep 2026): shipped 11 production Java methods for the **Zowe Client Java SDK v7.0.0** — [PR #514](https://github.com/zowe/zowe-client-java-sdk/pull/514), [#531](https://github.com/zowe/zowe-client-java-sdk/pull/531), [#560](https://github.com/zowe/zowe-client-java-sdk/pull/560)
-- 🚀 **Co-Founder & Full-Stack Developer**, [SolarShare](https://github.com/Muhammad7839/SolarShare): **1st of 15 teams** at the 2025 PSEG Long Island Innovation Challenge · 1st of 15 teams, advanced to the 2026 Hult Prize USA East
+- 🚀 **Co-Founder & Full-Stack Developer**, [SolarShare](https://github.com/Muhammad7839/SolarShare): Won the 2025 PSEG Long Island Innovation Challenge · 1st of 15 teams, advanced to the 2026 Hult Prize USA East
 - 🎓 B.S. Computer Science, **Farmingdale State College** (May 2026, President's List) · Starting **Georgia Tech OMSCS** in Spring 2027
 - 💡 I build full-stack products with measurable tests, CI-verified deployments, and clear technical ownership
 
