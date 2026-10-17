@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 **Software Support Technician** at **BRdata** (Jun 2026–Present), Melville, NY
-- 🌱 **Linux Foundation LFX Mentee** (May–Sep 2026): shipped 11 production Java methods for the **Zowe Client Java SDK v7.0.0** — [PR #514](https://github.com/zowe/zowe-client-java-sdk/pull/514), [#531](https://github.com/zowe/zowe-client-java-sdk/pull/531), [#560](https://github.com/zowe/zowe-client-java-sdk/pull/560)
+- 🌱 **Linux Foundation LFX Mentorship Graduate** (May–Sep 2026): shipped 11 production Java methods for the **Zowe Client Java SDK v7.0.0** — [PR #514](https://github.com/zowe/zowe-client-java-sdk/pull/514), [#531](https://github.com/zowe/zowe-client-java-sdk/pull/531), [#560](https://github.com/zowe/zowe-client-java-sdk/pull/560)
 - 🚀 **Co-Founder & Full-Stack Developer**, [SolarShare](https://github.com/Muhammad7839/SolarShare): Won the 2025 PSEG Long Island Innovation Challenge · 1st of 15 teams, advanced to the 2026 Hult Prize USA East
 - 🎓 B.S. Computer Science, **Farmingdale State College** (May 2026, President's List) · Starting **Georgia Tech OMSCS** in Spring 2027
 - 💡 I build full-stack products with measurable tests, CI-verified deployments, and clear technical ownership
@@ -50,7 +50,7 @@
 
 `FastAPI` `React` `PostgreSQL` `Kotlin` `Groq API` `GitHub Actions`
 
-Led backend development for a cross-platform AI wardrobe platform with JWT authentication, Google OAuth, live weather, wardrobe management, and personalized outfit recommendations. Delivered 12+ features across three Agile sprints, supported by 185+ backend tests, 617 web tests, and automated CI.
+Led backend development for a cross-platform AI wardrobe platform with JWT authentication, Google OAuth, live weather, wardrobe management, and personalized outfit recommendations. Delivered 12+ features across three Agile sprints, supported by 800+ automated tests and automated CI.
 
 Relaunching soon · [Source code](https://github.com/Muhammad7839/FitGPT)
 
@@ -66,7 +66,7 @@ Completed the final LaunchCode Agentic Engineering capstone by turning FitGPT's 
 
 `Java` `Maven` `REST APIs` `IBM z/OS`
 
-Selected as a Linux Foundation LFX Mentee to extend the z/OSMF Workflow REST API lifecycle in the open-source Zowe Java SDK. Shipped 11 production Java methods for enterprise mainframe automation, merged across three pull requests:
+Selected for the Linux Foundation LFX Mentorship to extend the z/OSMF Workflow REST API lifecycle in the open-source Zowe Java SDK. Shipped 11 production Java methods for enterprise mainframe automation, merged across three pull requests:
 
 1. [Archived workflow DELETE and LIST APIs](https://github.com/zowe/zowe-client-java-sdk/pull/514)
 2. [Create and update system variables API](https://github.com/zowe/zowe-client-java-sdk/pull/531)
